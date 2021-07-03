@@ -2,7 +2,7 @@
 
 It is A new world wide Corono Tracking Application with N number of features incorporated in a single application.
 
-Download LinK: https://drive.google.com/file/d/1tAbR7RSbizdCPEsuejoWNDExaWaVk_ff/view?usp=sharing
+![](https://img.shields.io/static/v1?style=for-the-badge&message=Download+Link+:&color=222222&logo=Android+Studio&logoColor=3DDC84&label=) https://drive.google.com/file/d/1tAbR7RSbizdCPEsuejoWNDExaWaVk_ff/view?usp=sharing
 
 For source code:(since the file is very large) 
 https://drive.google.com/drive/folders/1be-l5I3DwXY5dUDnTLnmTt2DHF_c6PsH?usp=sharing
