@@ -98,7 +98,7 @@ https://drive.google.com/drive/folders/1be-l5I3DwXY5dUDnTLnmTt2DHF_c6PsH?usp=sha
 
 # ![](https://img.shields.io/static/v1?style=for-the-badge&message=Gowthamraj+K&color=007396&label=) 😄
 
-**Fullstack Web Developer**, Passionate in  ![](https://img.shields.io/static/v1?style=for-the-badge&message=Web+Development&color=d92323&label=) ![](https://img.shields.io/static/v1?style=for-the-badge&message=Web+Development&color=d92323&label=)  #Design_thinker**
+**Fullstack Web Developer**, Passionate in  ![](https://img.shields.io/static/v1?style=for-the-badge&message=Web+Development&color=d92323&label=) ![](https://img.shields.io/static/v1?style=for-the-badge&message=Web+Development&color=0c0c4f&label=) 
 
 ### Connect with me 👋:
 
