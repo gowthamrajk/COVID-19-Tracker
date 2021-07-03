@@ -17,6 +17,6 @@ https://drive.google.com/drive/folders/1be-l5I3DwXY5dUDnTLnmTt2DHF_c6PsH?usp=sha
 - Immunity boosting nutrition
 - Gendral guideleines to prevent corono
 - Helpline(for all indian states and union teritories)
-Search nearest hospitals using google map
+- Search nearest hospitals using google map
 
 
