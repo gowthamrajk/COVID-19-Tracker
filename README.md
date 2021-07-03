@@ -28,3 +28,5 @@ https://drive.google.com/drive/folders/1be-l5I3DwXY5dUDnTLnmTt2DHF_c6PsH?usp=sha
 
 ## Global Statistics
 
+![IMG_20210703_202917](https://user-images.githubusercontent.com/43011442/124358670-f87da900-dc3e-11eb-8c48-d194b1143efd.JPG)
+
