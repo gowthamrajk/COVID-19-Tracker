@@ -7,7 +7,7 @@ Download LinK: https://drive.google.com/file/d/1tAbR7RSbizdCPEsuejoWNDExaWaVk_ff
 For source code:(since the file is very large) 
 https://drive.google.com/drive/folders/1be-l5I3DwXY5dUDnTLnmTt2DHF_c6PsH?usp=sharing
 
-# Features 📺
+# Features ⚡
 
 - Worldwide tracking
 - Country wise tracking
@@ -19,7 +19,7 @@ https://drive.google.com/drive/folders/1be-l5I3DwXY5dUDnTLnmTt2DHF_c6PsH?usp=sha
 - Helpline(for all indian states and union teritories)
 - Search nearest hospitals using google map
 
-# UI View
+# UI View 📺
 
 ## Splash Screen
 
