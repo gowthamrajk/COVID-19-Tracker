@@ -20,3 +20,6 @@ https://drive.google.com/drive/folders/1be-l5I3DwXY5dUDnTLnmTt2DHF_c6PsH?usp=sha
 - Search nearest hospitals using google map
 
 # UI View
+
+## Splash Screen
+
