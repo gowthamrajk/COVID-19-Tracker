@@ -55,5 +55,10 @@ https://drive.google.com/drive/folders/1be-l5I3DwXY5dUDnTLnmTt2DHF_c6PsH?usp=sha
 ![IMG_20210703_202622](https://user-images.githubusercontent.com/43011442/124358804-92455600-dc3f-11eb-8f8b-fb9cff9507af.JPG)
 
 
+## Symptoms List
+
+![IMG_20210703_202613](https://user-images.githubusercontent.com/43011442/124358818-b30dab80-dc3f-11eb-8894-b2097a629332.JPG)
+
+
 
 
