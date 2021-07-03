@@ -115,3 +115,10 @@ https://drive.google.com/drive/folders/1be-l5I3DwXY5dUDnTLnmTt2DHF_c6PsH?usp=sha
 
 Code and documentation Copyright 2021 : **Gowthamraj K**
 
+[website1]: https://sites.google.com/view/code-jamm
+[hackerrank]: https://www.hackerrank.com/gowthamraj692
+[website]: https://github.com/gowthamrajk
+[twitter]: https://twitter.com/Gowtham29341737
+[youtube]: https://www.youtube.com/channel/UC_Q5Zet9Oz-UVAeJ-oE_uGQ?view_as=subscriber
+[instagram]: https://instagram.com/gow_t_h_a_m_r_a_j
+[linkedin]: https://www.linkedin.com/in/gowtham-kittusamy-54b835174/
