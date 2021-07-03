@@ -14,7 +14,7 @@ https://drive.google.com/drive/folders/1be-l5I3DwXY5dUDnTLnmTt2DHF_c6PsH?usp=sha
 - Symptoms(least common, most common, serious)
 - Precaution measures
 - Donation to covid fight
-Immunity boosting nutrition
+- Immunity boosting nutrition
 Gendral guideleines to prevent corono
 Helpline(for all indian states and union teritories)
 Search nearest hospitals using google map
