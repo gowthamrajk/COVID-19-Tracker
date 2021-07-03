@@ -9,9 +9,7 @@ https://drive.google.com/drive/folders/1be-l5I3DwXY5dUDnTLnmTt2DHF_c6PsH?usp=sha
 
 # Features 📺
 
-it includes.....
-
-Worlwide tracking
+- Worldwide tracking
 Country wise tracking
 Symptoms(least common, most common, serious)
 Precaution measures
