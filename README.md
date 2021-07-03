@@ -11,7 +11,7 @@ https://drive.google.com/drive/folders/1be-l5I3DwXY5dUDnTLnmTt2DHF_c6PsH?usp=sha
 
 - Worldwide tracking
 - Country wise tracking
-Symptoms(least common, most common, serious)
+- Symptoms(least common, most common, serious)
 Precaution measures
 Donation to covid fight
 Immunity boosting nutrition
