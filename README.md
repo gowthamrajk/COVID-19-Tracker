@@ -23,3 +23,6 @@ https://drive.google.com/drive/folders/1be-l5I3DwXY5dUDnTLnmTt2DHF_c6PsH?usp=sha
 
 ## Splash Screen
 
+![IMG_20210703_202705](https://user-images.githubusercontent.com/43011442/124358628-c9673780-dc3e-11eb-8d6a-0c0801b4198b.JPG)
+
+
