@@ -25,6 +25,7 @@ https://drive.google.com/drive/folders/1be-l5I3DwXY5dUDnTLnmTt2DHF_c6PsH?usp=sha
 
 # Language
 
+![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=007396&logo=Java&logoColor=FFFFFF&label=)
 
 
 # UI View 📺
